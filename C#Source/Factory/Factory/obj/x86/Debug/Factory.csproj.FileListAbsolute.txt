@@ -1,0 +1,5 @@
+D:\教育教学\c++\常见设计模式的解析和实现\C#Source\Factory\Factory\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\教育教学\c++\常见设计模式的解析和实现\C#Source\Factory\Factory\bin\Debug\Factory.exe
+D:\教育教学\c++\常见设计模式的解析和实现\C#Source\Factory\Factory\bin\Debug\Factory.pdb
+D:\教育教学\c++\常见设计模式的解析和实现\C#Source\Factory\Factory\obj\x86\Debug\Factory.exe
+D:\教育教学\c++\常见设计模式的解析和实现\C#Source\Factory\Factory\obj\x86\Debug\Factory.pdb
